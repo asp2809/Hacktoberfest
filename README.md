@@ -9,6 +9,9 @@ Repo for hactoberfest
 - Pull requests can be made in any GitHub-hosted repositories/projects. As long as the project is public and GitHub-hosted, your PRs will count towards your participation
 - You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your PRs to count.
 
+## Don't know how to create a PR?
+- Please refer <a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github">here</a> to get help to create a PR.
+
 step : 1
 # Register here
 https://hacktoberfest.digitalocean.com
